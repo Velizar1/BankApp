@@ -1,0 +1,8 @@
+﻿  ConsoleApplication56.cpp
+c:\users\toshiba\desktop\bankapp (3)\consoleapplication56\consoleapplication56\consoleapplication56.cpp(16): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\toshiba\desktop\bankapp (3)\consoleapplication56\consoleapplication56\consoleapplication56.cpp(16): warning C4309: '=': truncation of constant value
+c:\users\toshiba\desktop\bankapp (3)\consoleapplication56\consoleapplication56\consoleapplication56.cpp(17): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\toshiba\desktop\bankapp (3)\consoleapplication56\consoleapplication56\consoleapplication56.cpp(17): warning C4309: '=': truncation of constant value
+c:\users\toshiba\desktop\bankapp (3)\consoleapplication56\consoleapplication56\consoleapplication56.cpp(67): warning C4305: '=': truncation from 'int' to 'char'
+c:\users\toshiba\desktop\bankapp (3)\consoleapplication56\consoleapplication56\consoleapplication56.cpp(67): warning C4309: '=': truncation of constant value
+  ConsoleApplication56.vcxproj -> C:\Users\Toshiba\Desktop\BankApp (3)\ConsoleApplication56\Debug\ConsoleApplication56.exe
